@@ -8,7 +8,7 @@
         var kml_infowindow = new google.maps.InfoWindow();
         
         var subwaypoints = new google.maps.KmlLayer({
-          url: 'https://raw.githubusercontent.com/benjaminwang0916/Assignment3/master/TTC%20Station%20points.kml',
+          url: 'https://raw.githubusercontent.com/benjaminwang0916/Assignment3/master/TTC%20Station%20points%20(1).kml',
           preserveViewport: false,
           suppressInfoWindows: true,
           map: map,
